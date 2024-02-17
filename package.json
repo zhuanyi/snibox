@@ -24,6 +24,9 @@
     "vue-template-compiler": "^2.6.10",
     "vuex": "^v3.0.1"
   },
+  "engines": {
+    "node": "^14.0.0"
+  },
   "devDependencies": {
     "webpack-dev-server": "^3.5.1"
   }
