@@ -25,9 +25,6 @@
     },
     {
       "url": "heroku/ruby"
-    },    
-    {
-      "url": "git://github.com/heroku/heroku-buildpack-python.git"
     }
   ]
 }
