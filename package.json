@@ -1,27 +1,27 @@
 {
   "dependencies":{
-    "@rails/webpacker",
-    "animate.css",
-    "axios",
-    "babel-runtime",
-    "bulma",
-    "clipboard",
-    "codemirror",
-    "coffeescript",
-    "fuse.js",
-    "github-markdown-css",
-    "lodash",
-    "mobile-detect",
-    "octicons",
-    "precss",
-    "rails-ujs",
-    "smoothscroll-polyfill",
-    "sweetalert2",
-    "vue",
-    "vue-highlightjs",
-    "vue-loader",
-    "vue-markdown",
-    "vue-template-compiler",
+    "@rails/webpacker"
+    "animate.css"
+    "axios"
+    "babel-runtime"
+    "bulma"
+    "clipboard"
+    "codemirror"
+    "coffeescript"
+    "fuse.js"
+    "github-markdown-css"
+    "lodash"
+    "mobile-detect"
+    "octicons"
+    "precss"
+    "rails-ujs"
+    "smoothscroll-polyfill"
+    "sweetalert2"
+    "vue"
+    "vue-highlightjs"
+    "vue-loader"
+    "vue-markdown"
+    "vue-template-compiler"
     "vuex"
   },
   "engines":{
