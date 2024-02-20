@@ -22,10 +22,12 @@
     "vue-loader": "^15.7.0",
     "vue-markdown": "^2.2.4",
     "vue-template-compiler": "^2.6.10",
-    "vuex": "^v3.0.1"
+    "vuex": "^v3.0.1",
+    "sass": "^1.32.0" // Example version, check for the latest version compatible with your setup
   },
-  "engines": {
-    "node": "^20.11.1"
+  "engines": {    
+    "node": "20.x",
+    "npm": "6.x"    
   },
   "devDependencies": {
     "webpack-dev-server": "^3.5.1"
