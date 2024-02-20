@@ -23,7 +23,7 @@
     "vue-markdown": "^2.2.4",
     "vue-template-compiler": "^2.6.10",
     "vuex": "^v3.0.1",
-    "sass": "^1.32.0" // Example version, check for the latest version compatible with your setup
+    "sass": "^1.32.0"
   },
   "engines": {    
     "node": "20.x",
