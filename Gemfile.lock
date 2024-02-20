@@ -287,8 +287,5 @@ DEPENDENCIES
   webdrivers (~> 3.0)
   webpacker (~> 4.0)
 
-RUBY VERSION
-   ruby 2.7.0p0
-
 BUNDLED WITH
    2.1.4
